@@ -1,0 +1,38 @@
+{
+  "name": "music-bot-discord",
+  "version": "1.0.0",
+  "description": "Music-bot-discord",
+  "main": "bot.js",
+  "dependencies": {
+    "bufferutil": "^3.0.1",
+    "discord.js": "^11.1.0",
+    "erlpack": "github:hammerandchisel/erlpack",
+    "git-rev": "^0.2.1",
+    "libsodium-wrappers": "^0.5.1",
+    "node-opus": "^0.2.6",
+    "opusscript": "0.0.3",
+    "sodium": "^2.0.1",
+    "uws": "^8.14.0",
+    "youtube-search": "^1.0.10",
+    "ytdl-core": "^0.14.4"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Takohell/Music-bot-discord.git"
+  },
+  "keywords": [
+    "Music",
+    "Bot",
+    "Discord.js"
+  ],
+  "author": "Silver Crow",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Takohell/Music-bot-discord/issues"
+  },
+  "homepage": "https://github.com/Takohell/Music-bot-discord#readme"
+}

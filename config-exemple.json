@@ -1,0 +1,12 @@
+{
+  "token": "[token]",
+  "client_id": "[CLIENT ID]",
+  "prefix": "!",
+  "owner_id": "[owner_id]",
+  "status": "[STATUS]",
+  "youtube_api_key": "[YT_API_KEY]",
+  "admins": ["admin_id"],
+  "configRev": "0.1.5",
+  "language" : "fr",
+  "language_comments" : "en"
+}
